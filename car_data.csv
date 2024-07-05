@@ -1,0 +1,117 @@
+
+Date : 2024-04-01 22:03:46
+Name,Year,Price,MPG,URL
+2024 BMW i7,2024,$106695,321 Miles,https://www.kbb.com/bmw/i7/
+2024 BMW X5 M,2024,$123295,15 MPG,https://www.kbb.com/bmw/x5-m/
+2024 BMW X6 M,2024,$128195,15 MPG,https://www.kbb.com/bmw/x6-m/
+2024 BMW M8,2024,$140795,17 MPG,https://www.kbb.com/bmw/m8/
+2024 BMW XM,2024,$159995,31 Miles,https://www.kbb.com/bmw/xm/
+2023 BMW 2 Series,2023,$38795,28 MPG,https://www.kbb.com/bmw/2-series/2023/
+2024 BMW 2 Series,2024,$39395,28 MPG,https://www.kbb.com/bmw/2-series/
+2023 BMW X1,2023,$39595,28 MPG,https://www.kbb.com/bmw/x1/2023/
+2024 BMW X1,2024,$41495,28 MPG,https://www.kbb.com/bmw/x1/
+2024 BMW X2,2024,$42995,28 MPG,https://www.kbb.com/bmw/x2/
+2024 BMW 3 Series,2024,$45495,22 Miles,https://www.kbb.com/bmw/3-series/
+2023 BMW X3,2023,$47195,25 MPG,https://www.kbb.com/bmw/x3/2023/
+2024 BMW X3,2024,$47895,25 MPG,https://www.kbb.com/bmw/x3/
+2024 BMW 4 Series,2024,$49295,28 MPG,https://www.kbb.com/bmw/4-series/
+2023 BMW i4,2023,$52995,301 Miles,https://www.kbb.com/bmw/i4/2023/
+2024 BMW i4,2024,$53195,301 Miles,https://www.kbb.com/bmw/i4/
+2024 BMW Z4,2024,$54595,28 MPG,https://www.kbb.com/bmw/z4/2024/
+2025 BMW Z4,2025,$55045,28 MPG,https://www.kbb.com/bmw/z4/
+2023 BMW X4,2023,$55195,24 MPG,https://www.kbb.com/bmw/x4/2023/
+2024 BMW X4,2024,$55995,24 MPG,https://www.kbb.com/bmw/x4/
+2023 BMW 5 Series,2023,$56995,28 MPG,https://www.kbb.com/bmw/5-series/2023/
+2024 BMW 5 Series,2024,$58895,30 MPG,https://www.kbb.com/bmw/5-series/
+2023 BMW X5,2023,$62595,23 MPG,https://www.kbb.com/bmw/x5/2023/
+2024 BMW M2,2024,$64195,19 MPG,https://www.kbb.com/bmw/m2/
+2024 BMW X5,2024,$66195,25 MPG,https://www.kbb.com/bmw/x5/
+2024 BMW i5,2024,$67795,295 Miles,https://www.kbb.com/bmw/i5/
+2024 BMW X6,2024,$74895,24 MPG,https://www.kbb.com/bmw/x6/
+2024 BMW X3 M,2024,$76495,17 MPG,https://www.kbb.com/bmw/x3-m/2024/
+2024 BMW M3,2024,$76995,19 MPG,https://www.kbb.com/bmw/m3/
+2024 BMW M4,2024,$79095,19 MPG,https://www.kbb.com/bmw/m4/
+2024 BMW X4 M,2024,$80095,17 MPG,https://www.kbb.com/bmw/x4-m/
+2024 BMW X7,2024,$82895,22 MPG,https://www.kbb.com/bmw/x7/
+2024 BMW iX,2024,$88095,307 Miles,https://www.kbb.com/bmw/ix/
+2024 BMW 8 Series,2024,$91795,24 MPG,https://www.kbb.com/bmw/8-series/
+2023 BMW 7 Series,2023,$96695,27 MPG,https://www.kbb.com/bmw/7-series/2023/
+2024 BMW 7 Series,2024,$97395,28 MPG,https://www.kbb.com/bmw/7-series/
+
+Date : 2024-04-01 22:31:24
+Name,Year,Price,MPG,URL
+2003 BMW X5,2003,$3917,15 MPG,https://www.kbb.com/bmw/x5/2003/
+2005 BMW X5,2005,$4094,16 MPG,https://www.kbb.com/bmw/x5/2005/
+2004 BMW X5,2004,$4119,16 MPG,https://www.kbb.com/bmw/x5/2004/
+2003 BMW 5 Series,2003,$4129,21 MPG,https://www.kbb.com/bmw/5-series/2003/
+2006 BMW X5,2006,$4250,16 MPG,https://www.kbb.com/bmw/x5/2006/
+2005 BMW X3,2005,$4259,18 MPG,https://www.kbb.com/bmw/x3/2005/
+2005 BMW 5 Series,2005,$4346,20 MPG,https://www.kbb.com/bmw/5-series/2005/
+2003 BMW 3 Series,2003,$4395,20 MPG,https://www.kbb.com/bmw/3-series/2003/
+2004 BMW 5 Series,2004,$4431,22 MPG,https://www.kbb.com/bmw/5-series/2004/
+2005 BMW 3 Series,2005,$4451,20 MPG,https://www.kbb.com/bmw/3-series/2005/
+2004 BMW 3 Series,2004,$4574,20 MPG,https://www.kbb.com/bmw/3-series/2004/
+2004 BMW X3,2004,$4654,16 MPG,https://www.kbb.com/bmw/x3/2004/
+2006 BMW 5 Series,2006,$4674,21 MPG,https://www.kbb.com/bmw/5-series/2006/
+2006 BMW X3,2006,$4883,16 MPG,https://www.kbb.com/bmw/x3/2006/
+2006 BMW 3 Series,2006,$5099,20 MPG,https://www.kbb.com/bmw/3-series/2006/
+2007 BMW 5 Series,2007,$5104,21 MPG,https://www.kbb.com/bmw/5-series/2007/
+2004 BMW 7 Series,2004,$5140,19 MPG,https://www.kbb.com/bmw/7-series/2004/
+2007 BMW 3 Series,2007,$5168,22 MPG,https://www.kbb.com/bmw/3-series/2007/
+2007 BMW X3,2007,$5240,20 MPG,https://www.kbb.com/bmw/x3/2007/
+2007 BMW X5,2007,$5582,17 MPG,https://www.kbb.com/bmw/x5/2007/
+2008 BMW X5,2008,$5672,18 MPG,https://www.kbb.com/bmw/x5/2008/
+2008 BMW X3,2008,$5703,20 MPG,https://www.kbb.com/bmw/x3/2008/
+2008 BMW 5 Series,2008,$5720,21 MPG,https://www.kbb.com/bmw/5-series/2008/
+2005 BMW 7 Series,2005,$5743,19 MPG,https://www.kbb.com/bmw/7-series/2005/
+2008 BMW 3 Series,2008,$5812,22 MPG,https://www.kbb.com/bmw/3-series/2008/
+2006 BMW 7 Series,2006,$5872,18 MPG,https://www.kbb.com/bmw/7-series/2006/
+2009 BMW 3 Series,2009,$6009,22 MPG,https://www.kbb.com/bmw/3-series/2009/
+2009 BMW X3,2009,$6114,20 MPG,https://www.kbb.com/bmw/x3/2009/
+2009 BMW X5,2009,$6272,16 MPG,https://www.kbb.com/bmw/x5/2009/
+2007 BMW 7 Series,2007,$6396,18 MPG,https://www.kbb.com/bmw/7-series/2007/
+2009 BMW 5 Series,2009,$6407,20 MPG,https://www.kbb.com/bmw/5-series/2009/
+2010 BMW 3 Series,2010,$6547,22 MPG,https://www.kbb.com/bmw/3-series/2010/
+2010 BMW X3,2010,$6776,20 MPG,https://www.kbb.com/bmw/x3/2010/
+2008 BMW 7 Series,2008,$6836,18 MPG,https://www.kbb.com/bmw/7-series/2008/
+2010 BMW X5,2010,$6840,18 MPG,https://www.kbb.com/bmw/x5/2010/
+2010 BMW 5 Series,2010,$6934,20 MPG,https://www.kbb.com/bmw/5-series/2010/
+
+Date : 2024-04-02 11:57:45
+Name,Year,Price,MPG,URL
+2022 BMW 2 Series,2022,$30253,28 MPG,https://www.kbb.com/bmw/2-series/2022/
+2022 BMW X1,2022,$30296,27 MPG,https://www.kbb.com/bmw/x1/2022/
+2022 BMW 5 Series,2022,$37540,21 Miles,https://www.kbb.com/bmw/5-series/2022/
+2023 BMW X2,2023,$37595,27 MPG,https://www.kbb.com/bmw/x2/2023/
+2023 BMW 2 Series,2023,$38795,28 MPG,https://www.kbb.com/bmw/2-series/2023/
+2024 BMW 2 Series,2024,$39395,28 MPG,https://www.kbb.com/bmw/2-series/
+2023 BMW X1,2023,$39595,28 MPG,https://www.kbb.com/bmw/x1/2023/
+2024 BMW X1,2024,$41495,28 MPG,https://www.kbb.com/bmw/x1/
+2024 BMW X2,2024,$42995,28 MPG,https://www.kbb.com/bmw/x2/
+2023 BMW 3 Series,2023,$44795,22 Miles,https://www.kbb.com/bmw/3-series/2023/
+2022 BMW X5,2022,$44851,31 Miles,https://www.kbb.com/bmw/x5/2022/
+2024 BMW 3 Series,2024,$45495,22 Miles,https://www.kbb.com/bmw/3-series/
+2023 BMW 4 Series,2023,$46895,28 MPG,https://www.kbb.com/bmw/4-series/2023/
+2023 BMW X3,2023,$47195,25 MPG,https://www.kbb.com/bmw/x3/2023/
+2024 BMW X3,2024,$47895,25 MPG,https://www.kbb.com/bmw/x3/
+2024 BMW 4 Series,2024,$49295,28 MPG,https://www.kbb.com/bmw/4-series/
+2022 BMW 7 Series,2022,$49365,17 Miles,https://www.kbb.com/bmw/7-series/2022/
+2022 BMW iX,2022,$51868,324 Miles,https://www.kbb.com/bmw/ix/2022/
+2023 BMW i4,2023,$52995,301 Miles,https://www.kbb.com/bmw/i4/2023/
+2024 BMW i4,2024,$53195,301 Miles,https://www.kbb.com/bmw/i4/
+2023 BMW Z4,2023,$53795,28 MPG,https://www.kbb.com/bmw/z4/2023/
+2024 BMW Z4,2024,$54595,28 MPG,https://www.kbb.com/bmw/z4/2024/
+2025 BMW Z4,2025,$55045,28 MPG,https://www.kbb.com/bmw/z4/
+2023 BMW X4,2023,$55195,24 MPG,https://www.kbb.com/bmw/x4/2023/
+2024 BMW X4,2024,$55995,24 MPG,https://www.kbb.com/bmw/x4/
+2023 BMW 5 Series,2023,$56995,28 MPG,https://www.kbb.com/bmw/5-series/2023/
+2024 BMW 5 Series,2024,$58895,30 MPG,https://www.kbb.com/bmw/5-series/
+2023 BMW 8 Series,2023,$59549,24 MPG,https://www.kbb.com/bmw/8-series/2023/
+2023 BMW iX,2023,$60483,324 Miles,https://www.kbb.com/bmw/ix/2023/
+2023 BMW X5,2023,$62595,23 MPG,https://www.kbb.com/bmw/x5/2023/
+2023 BMW M2,2023,$63195,19 MPG,https://www.kbb.com/bmw/m2/2023/
+2023 BMW X6,2023,$63836,23 MPG,https://www.kbb.com/bmw/x6/2023/
+2024 BMW M2,2024,$64195,19 MPG,https://www.kbb.com/bmw/m2/
+2024 BMW X5,2024,$66195,25 MPG,https://www.kbb.com/bmw/x5/
+2024 BMW i5,2024,$67795,295 Miles,https://www.kbb.com/bmw/i5/
+2023 BMW X4 M,2023,$68433,17 MPG,https://www.kbb.com/bmw/x4-m/2023/
