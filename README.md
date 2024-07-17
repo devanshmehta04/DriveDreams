@@ -12,7 +12,7 @@ The objective of this project is to develop a system that analyzes and understan
 **Spell suggestion :** Provides functionality for word completion based on a given input word.    
 **Spell Checking :** Developed to identify and highlight potential spelling errors with ininput text by comparing words against a dictionary.  
 **Page Ranking :** Ranks web pages stored in a directory based on their relevance to a specified keyword.  
-**Inverted Indexing :**This feature implements an inverted index, which is used for information retrieval systemsand  to efficiently map words to the locations in documents.  
+**Inverted Indexing :** This feature implements an inverted index, which is used for information retrieval systemsand  to efficiently map words to the locations in documents.  
 **Finding patterns using Regular Expression :** Implements a web scraper designed to extract car price data from a specified website.  
 **HTML Parser :** Extracts valuable data from web pages which utilizes the Jsoup library.  
 **Data Validation using Regular Expression:** This feature is utilized to match patterns, enabling the iterative confirmation of input until a valid input is provided.  
