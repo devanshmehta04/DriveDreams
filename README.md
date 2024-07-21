@@ -17,6 +17,16 @@ The objective of this project is to develop a system that analyzes and understan
 **HTML Parser :** Extracts valuable data from web pages which utilizes the Jsoup library.  
 **Data Validation using Regular Expression:** This feature is utilized to match patterns, enabling the iterative confirmation of input until a valid input is provided.  
 
+## Screenshots
+![alt text](webcrawler.png)
+![alt text](page-ranking.png)
+![alt text](spell-checking.png)
+![alt text](spell-suggestion.png)
+![alt text](inverted-indexing.png)
+![alt text](pattern_using_regex.png)
+![alt text](frequency_count.png)
+![alt text](data_validation_using_regex.png)
+
 ## Contact 
 
 For any inquiries or support, please contact at:
